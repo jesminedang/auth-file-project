@@ -1,0 +1,2 @@
+## Description of subject: 
+You are a small car rental business and you want to create a system that allows your customers to register on your site and submit a copy of their driver's license in PDF or JPEG format. You will test the skills of developers through the implementation of specific features.
